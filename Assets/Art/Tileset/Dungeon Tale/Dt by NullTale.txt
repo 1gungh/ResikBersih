@@ -1,10 +1,3 @@
-Copyright (c) 2024 NullTale
-author's asset with artistic lighting system
-
-• sprites  - https://nulltale.itch.io/dungeon-story
-• lighting - https://github.com/NullTale/LutLight2D
-
-• links
- ml: nulltale@gmail.com
- sm: https://x.com/nulltale
- ds: https://discord.gg/CkdQvtA5un
+version https://git-lfs.github.com/spec/v1
+oid sha256:e4779d4fae3a178d2f3bf876ac127cebe5d3cee5fae31b5c3a1dbd753ed3d794
+size 288

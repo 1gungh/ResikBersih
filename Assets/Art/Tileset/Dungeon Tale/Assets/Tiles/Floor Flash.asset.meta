@@ -1,15 +1,3 @@
-fileFormatVersion: 2
-guid: 265cd2d7341f6ce448009ab6bf9f4aad
-NativeFormatImporter:
-  externalObjects: {}
-  mainObjectFileID: 11400000
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 296458
-  packageName: Dungeon Tale - Fantasy RPG Sprites FX Tileset
-  packageVersion: 1.0
-  assetPath: Assets/Tileset/Dungeon Tale/Assets/Tiles/Floor Flash.asset
-  uploadId: 693043
+version https://git-lfs.github.com/spec/v1
+oid sha256:1313de53f3be45a952a3ed8656840f48fc280860d111b94ba3549a967e0e664c
+size 419

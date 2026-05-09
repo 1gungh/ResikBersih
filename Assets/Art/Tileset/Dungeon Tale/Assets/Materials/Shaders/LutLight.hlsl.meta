@@ -1,14 +1,3 @@
-fileFormatVersion: 2
-guid: 2c47b77006e1bb842ba2c05f54fd55a7
-ShaderIncludeImporter:
-  externalObjects: {}
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 296458
-  packageName: Dungeon Tale - Fantasy RPG Sprites FX Tileset
-  packageVersion: 1.0
-  assetPath: Assets/Tileset/Dungeon Tale/Assets/Materials/Shaders/LutLight.hlsl
-  uploadId: 693043
+version https://git-lfs.github.com/spec/v1
+oid sha256:b471fa1d3b9e5fa5d25da79eb581489f5cd5970244fb13819e5d603e8d57cb98
+size 399

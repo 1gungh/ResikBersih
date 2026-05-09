@@ -1,14 +1,3 @@
-fileFormatVersion: 2
-guid: 991c69b5470f7bd44b3e3aaec81123f0
-DefaultImporter:
-  externalObjects: {}
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 296458
-  packageName: Dungeon Tale - Fantasy RPG Sprites FX Tileset
-  packageVersion: 1.0
-  assetPath: Assets/Tileset/Dungeon Tale/Scenes/Demo.unity
-  uploadId: 693043
+version https://git-lfs.github.com/spec/v1
+oid sha256:62a048f974e8076cd94e822f33a0bb15c4fc9b3414e473c8890d74daf65a7ad8
+size 372
