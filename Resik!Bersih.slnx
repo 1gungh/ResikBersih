@@ -1,2 +1,5 @@
 ﻿<Solution>
+  <Project Path="KinematicSoup.SceneFusion.Editor.csproj" />
+  <Project Path="KinematicSoup.SceneFusion.csproj" />
+  <Project Path="Assembly-CSharp.csproj" />
 </Solution>
