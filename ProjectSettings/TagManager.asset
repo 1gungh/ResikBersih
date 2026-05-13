@@ -3,7 +3,8 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 3
-  tags: []
+  tags:
+  - trash
   layers:
   - Default
   - TransparentFX
@@ -55,6 +56,9 @@ TagManager:
     locked: 0
   - name: Decor
     uniqueID: 3735121889
+    locked: 0
+  - name: trash
+    uniqueID: 1588196603
     locked: 0
   m_RenderingLayers:
   - Default
