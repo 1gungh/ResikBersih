@@ -13,15 +13,16 @@ public class PlayerController : MonoBehaviour
     private Animator myAnimator;
     private SpriteRenderer mySpriteRender;
     private bool isRunning;
+    private Vector3 originalScale;
+   private void Awake()
+{
+    playerControls = new PlayerControls();
+    rb = GetComponent<Rigidbody2D>();
+    myAnimator = GetComponentInChildren<Animator>();
+    mySpriteRender = transform.Find("Body").GetComponent<SpriteRenderer>();
 
-    private void Awake()
-    {
-        playerControls=new PlayerControls();
-        rb =GetComponent<Rigidbody2D>();
-        myAnimator = GetComponentInChildren<Animator>();
-        mySpriteRender=GetComponent<SpriteRenderer>();
-    }
-
+    originalScale = transform.localScale;
+}
     private void OnEnable(){
         playerControls.Enable();
     }
@@ -59,7 +60,7 @@ public class PlayerController : MonoBehaviour
 
     rb.MovePosition(rb.position + movement * (currentSpeed * Time.fixedDeltaTime));
 }
-    private void AdjustPlayerFacingDirection()
+private void AdjustPlayerFacingDirection()
 {
     if (movement.x < 0)
     {
