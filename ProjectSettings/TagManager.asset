@@ -45,6 +45,9 @@ TagManager:
   - name: Ground
     uniqueID: 3137605635
     locked: 0
+  - name: GroundDecoration
+    uniqueID: 3936204451
+    locked: 0
   - name: WalkInFront
     uniqueID: 3794146391
     locked: 0
@@ -57,7 +60,7 @@ TagManager:
   - name: WalkInBehind
     uniqueID: 2965938421
     locked: 0
-  - name: Decoration
+  - name: TopDecoration
     uniqueID: 632309365
     locked: 0
   m_RenderingLayers:
