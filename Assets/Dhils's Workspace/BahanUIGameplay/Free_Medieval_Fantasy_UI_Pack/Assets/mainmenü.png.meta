@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: a67bef831ec76b64d9d525947dd77f6c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5459820693006827622
+    second: "mainmen\xFC_0"
+  - first:
+      213: 5297071771111890497
+    second: "mainmen\xFC_1"
+  - first:
+      213: -108395941053859758
+    second: "mainmen\xFC_2"
+  - first:
+      213: 6981267170429843143
+    second: "mainmen\xFC_3"
+  - first:
+      213: -8814299219826693263
+    second: "mainmen\xFC_4"
+  - first:
+      213: 5074483548242316301
+    second: "mainmen\xFC_5"
+  - first:
+      213: -8547143743612451865
+    second: "mainmen\xFC_6"
+  - first:
+      213: 7680566434610811963
+    second: "mainmen\xFC_7"
+  - first:
+      213: 7875187019663781570
+    second: "mainmen\xFC_8"
+  - first:
+      213: 2480516338117485631
+    second: "mainmen\xFC_9"
+  - first:
+      213: 5641373743119889961
+    second: "mainmen\xFC_10"
+  - first:
+      213: 2480697612153682700
+    second: "mainmen\xFC_11"
+  - first:
+      213: -7138396935014769235
+    second: "mainmen\xFC_12"
+  - first:
+      213: 8746595334034097532
+    second: "mainmen\xFC_13"
+  - first:
+      213: 6998249074162773934
+    second: "mainmen\xFC_14"
+  - first:
+      213: 2250149224429531116
+    second: "mainmen\xFC_15"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "mainmen\xFC_0"
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 100
+        width: 56
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 660cfff2efd25cb40800000000000000
+      internalID: 5459820693006827622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "mainmen\xFC_1"
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 99
+        width: 61
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14e9fd2f5baf28940800000000000000
+      internalID: 5297071771111890497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "mainmen\xFC_2"
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 99
+        width: 59
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 258f3664776ee7ef0800000000000000
+      internalID: -108395941053859758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "mainmen\xFC_3"
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 95
+        width: 54
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c6319fc08172e060800000000000000
+      internalID: 6981267170429843143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "mainmen\xFC_4"
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 65
+        width: 61
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17b2a3a4f815da580800000000000000
+      internalID: -8814299219826693263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "mainmen\xFC_5"
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 65
+        width: 49
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0c0c8fb6ef2c6640800000000000000
+      internalID: 5074483548242316301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "mainmen\xFC_6"
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 65
+        width: 44
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e307c5cc02726980800000000000000
+      internalID: -8547143743612451865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "mainmen\xFC_7"
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 65
+        width: 45
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3414c89a7ad69a60800000000000000
+      internalID: 7680566434610811963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "mainmen\xFC_8"
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 33
+        width: 43
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cea3deaed84a4d60800000000000000
+      internalID: 7875187019663781570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "mainmen\xFC_9"
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 33
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f34ab0997709c6220800000000000000
+      internalID: 2480516338117485631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "mainmen\xFC_10"
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 33
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92670e3b78f2a4e40800000000000000
+      internalID: 5641373743119889961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "mainmen\xFC_11"
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 33
+        width: 46
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0b749fb5553d6220800000000000000
+      internalID: 2480697612153682700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "mainmen\xFC_12"
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 0
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dad15b6fec15fec90800000000000000
+      internalID: -7138396935014769235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "mainmen\xFC_13"
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 2
+        width: 61
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7501376d16226970800000000000000
+      internalID: 8746595334034097532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "mainmen\xFC_14"
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 3
+        width: 60
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eafad236476ce1160800000000000000
+      internalID: 6998249074162773934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "mainmen\xFC_15"
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 3
+        width: 55
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cef2ebd3cc22a3f10800000000000000
+      internalID: 2250149224429531116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "mainmen\xFC_0": 5459820693006827622
+      "mainmen\xFC_1": 5297071771111890497
+      "mainmen\xFC_10": 5641373743119889961
+      "mainmen\xFC_11": 2480697612153682700
+      "mainmen\xFC_12": -7138396935014769235
+      "mainmen\xFC_13": 8746595334034097532
+      "mainmen\xFC_14": 6998249074162773934
+      "mainmen\xFC_15": 2250149224429531116
+      "mainmen\xFC_2": -108395941053859758
+      "mainmen\xFC_3": 6981267170429843143
+      "mainmen\xFC_4": -8814299219826693263
+      "mainmen\xFC_5": 5074483548242316301
+      "mainmen\xFC_6": -8547143743612451865
+      "mainmen\xFC_7": 7680566434610811963
+      "mainmen\xFC_8": 7875187019663781570
+      "mainmen\xFC_9": 2480516338117485631
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
